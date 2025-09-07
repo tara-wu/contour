@@ -1,6 +1,6 @@
 <h1>Data Setup</h1>
-  
-The raster dataset foxlake is provided as a zipped archive (foxlake.zip) inside the data/ folder to keep the repository size manageable. Before running the scripts or notebooks:
+
+You must run this script from the root of the cloned repo (where the script file is located), so that relative paths resolve correctly. The raster dataset foxlake is provided as a zipped archive (foxlake.zip) inside the data/ folder to keep the repository size manageable. Before running the scripts or notebooks:
 
 <li>Download the repository or clone it locally.</li>
 
