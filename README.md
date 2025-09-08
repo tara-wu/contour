@@ -1,4 +1,6 @@
-<h1>Data Setup</h1>
+This repository includes a script as well as a Jupyter notebook.
+
+<h1>Data Setup - Contour Script</h1>
 
 You must run this script from the root of the cloned repo (where the script file is located), so that relative paths resolve correctly. The raster dataset foxlake is provided as a zipped archive (foxlake.zip) inside the data/ folder to keep the repository size manageable. Before running the scripts or notebooks:
 
@@ -20,3 +22,8 @@ Your directory should look like this:
     └── metadata.xml</pre>
     
 <li>Now you can run the scripts and notebooks which reference the raster folder at /data/foxlake.</li>
+
+<h1>Data Setup - Jupyter Notebook</h1>
+
+This repo also comes with a Jupyter notebook. Images in the notebook are in the 'images folder; both the notebook file and the folder must be downlaoded to see them. The foxlake folder has the information you need to create the contours (just as with the script option).
+
